@@ -2,7 +2,8 @@
  * react-native-swiper
  * @author leecade<leecade@163.com>
  */
-import React, {
+import React from 'react';
+import {
   StyleSheet,
   Text,
   View,
